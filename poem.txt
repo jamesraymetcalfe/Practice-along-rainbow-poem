@@ -6,3 +6,5 @@ Here is my first edit
 Here is my second edit
 
 Here is my first edit on the new branch
+Here is a change made on my own laptop and not on GitHub
+
