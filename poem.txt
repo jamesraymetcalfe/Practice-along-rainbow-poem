@@ -10,3 +10,6 @@ Here is a change made on my own laptop and not on GitHub
 Here is another change
 I messed something up
 
+I am trying another clone and push via terminal.
+Good luck to me 
+
