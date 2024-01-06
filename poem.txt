@@ -13,3 +13,6 @@ I messed something up
 I am trying another clone and push via terminal.
 Good luck to me 
 
+I awake the next day and have managed to clone
+Can I commit, add and push?
+
